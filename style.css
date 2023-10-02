@@ -1,0 +1,31 @@
+.width{
+    width: 100%;
+}
+
+
+#list-container{
+
+    position: relative;
+    left: 350px;
+}
+
+ol li{
+    padding-top: 20px;
+   
+}
+
+
+#Yes {
+position: absolute;
+right: 800px
+}
+
+#No {
+    position: absolute;
+    right: 750px;
+    }
+
+.validator{
+text-align: center;
+}
+
